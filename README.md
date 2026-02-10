@@ -25,6 +25,6 @@ Results are displayed on the screen
 
 ## Notes
 
--Student number must be between 1 and 100
--Input validation is implemented
+-Student number must be between 1 and 100 <br>
+-Input validation is implemented <br>
 -getchar() is used to prevent the console from closing immediately
