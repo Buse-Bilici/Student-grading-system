@@ -28,3 +28,7 @@ Results are displayed on the screen
 -Student number must be between 1 and 100 <br>
 -Input validation is implemented <br>
 -getchar() is used to prevent the console from closing immediately
+
+## ▶️ Sample Output
+
+<img width="395" height="294" alt="image" src="https://github.com/user-attachments/assets/88398833-4a7a-4528-8759-5c2234cafea9" />
