@@ -14,4 +14,16 @@ It takes student grades as input, calculates the class average, and determines t
 
 -Handles invalid input for student count
 
+## 🚀 How It Works
 
+The user enters the number of students
+
+The passing grade is entered
+
+Student grades are stored in an array
+
+The class average is calculated
+
+Students with grades below the passing grade are counted
+
+Results are displayed on the screen
