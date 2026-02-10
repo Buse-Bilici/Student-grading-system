@@ -4,14 +4,14 @@ It takes student grades as input, calculates the class average, and determines t
 
 ## 📌Features
 
-Accepts a student count between 1 and 100
+-Accepts a student count between 1 and 100
 
-Takes grades for each student
+-Takes grades for each student
 
-Calculates the class average
+-Calculates the class average
 
-Counts students who scored below the passing grade
+-Counts students who scored below the passing grade
 
-Handles invalid input for student count
+-Handles invalid input for student count
 
 
